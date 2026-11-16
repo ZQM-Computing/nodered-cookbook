@@ -11,7 +11,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A **Node-RED cookbook** for flow-based automation for geospatial and IoT triggers. Patterns are drawn from the ZQM fleet's Node-RED 5.0.9 installs (Node-1 on port 1980, Node-3 on port 1880). It is intended for Engineers who wire sensors, APIs, and databases together as flows. Validate each pattern against your own data, software versions, and operating environment before adopting it.
+A **Node-RED cookbook** for flow-based automation for geospatial and IoT triggers. Patterns are drawn from the ZQM fleet's Node-RED 5.0.9 installs (Node-1 on port 1980, Node-3 on port 1880) (as of Oct 2026; verify against the current fleet). It is intended for Engineers who wire sensors, APIs, and databases together as flows. Validate each pattern against your own data, software versions, and operating environment before adopting it.
 
 ## Repository role and status
 
