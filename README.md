@@ -35,6 +35,8 @@ Engineers who wire sensors, APIs, and databases together as flows.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-flow` | A first flow: inject, function, and debug nodes |
